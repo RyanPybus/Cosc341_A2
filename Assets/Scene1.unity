@@ -535,7 +535,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   filename: 
   ID: Video
-  device: 0
+  device: 1
   size: 0
   amplitude: 0
   time: 0
