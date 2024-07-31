@@ -472,6 +472,7 @@ MonoBehaviour:
   radius: 0
   scale: 0
   count: 0
+  nextRound: 0
   CSVWriter: {fileID: 2080038181}
 --- !u!4 &1559162560
 Transform:
@@ -533,7 +534,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   filename: 
-  ID: 8
+  ID: Video
   device: 0
   size: 0
   amplitude: 0
