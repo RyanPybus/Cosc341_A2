@@ -9,6 +9,7 @@ public class Master : MonoBehaviour
 
     List<GameObject> unOrderedList;
     List<GameObject> OrderedList;
+
     public GameObject Circle;
     public float radius;
     public float scale;
